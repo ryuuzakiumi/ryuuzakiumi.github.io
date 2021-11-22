@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ryuuzakiumi.github.io</id>
+    <title>umi</title>
+    <updated>2021-11-22T12:10:30.686Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ryuuzakiumi.github.io"/>
+    <link rel="self" href="https://ryuuzakiumi.github.io/atom.xml"/>
+    <subtitle>船到桥头自然直</subtitle>
+    <logo>https://ryuuzakiumi.github.io/images/avatar.png</logo>
+    <icon>https://ryuuzakiumi.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, umi</rights>
+</feed>
